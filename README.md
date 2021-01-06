@@ -12,4 +12,5 @@ This page contains the reading material of course 201 each of one are clarify in
 | links and Layout                | [content](https://mohammed-khamees.github.io/reading-notes201/LinksandLayout)         |
 | Functions, Methods and Objects  | [content](https://mohammed-khamees.github.io/reading-notes201/FunctionsAndmethods)    |
 | Pair Programming Reasons        | [content](https://mohammed-khamees.github.io/reading-notes201/pairProgrammingReasons) |
+| Images, Colors and Text         | [content](https://mohammed-khamees.github.io/reading-notes201/imagesColorsAndText)    |
 | GitHub                          | [My GitHub Page](https://github.com/mohammed-khamees)                                 |
