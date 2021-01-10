@@ -8,12 +8,6 @@ or column using the rowspan and colspan attributes. For long tables you can spli
 
 The constructor method is a special method of a class for creating and initializing an object of that class.
 
-```function Person(first, last, age, eye) {
-  this.firstName = first;
-  this.lastName = last;
-  this.age = age;
-  this.eyeColor = eye;
-}
+`function Person(first, last, age, eye) { this.firstName = first; this.lastName = last; this.age = age; this.eyeColor = eye;}`
 
-var myFather = new Person("John", "Doe", 50, "blue");
-```
+`var myFather = new Person("John", "Doe", 50, "blue");`
