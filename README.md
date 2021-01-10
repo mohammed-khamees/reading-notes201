@@ -14,5 +14,5 @@ This page contains the reading material of course 201 each of one are clarify in
 | Pair Programming Reasons            | [content](https://mohammed-khamees.github.io/reading-notes201/pairProgrammingReasons)   |
 | Images, Colors and Text             | [content](https://mohammed-khamees.github.io/reading-notes201/imagesColorsAndText)      |
 | DOM                                 | [content](https://mohammed-khamees.github.io/reading-notes201/DOM)                      |
-| Html Tabls and Js constructor func. | [content](https://mohammed-khamees.github.io/reading-notes201/tablesAndConstructorFunc) |
+| Html Tabls and Js constructor func. | [content](https://mohammed-khamees.github.io/reading-notes201/tablesAndConstructerFunc) |
 | GitHub                              | [My GitHub Page](https://github.com/mohammed-khamees)                                   |
