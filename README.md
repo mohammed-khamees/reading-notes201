@@ -16,5 +16,5 @@ This page contains the reading material of course 201 each of one are clarify in
 | DOM                                 | [content](https://mohammed-khamees.github.io/reading-notes201/DOM)                       |
 | Html Tabls and Js constructor func. | [content](https://mohammed-khamees.github.io/reading-notes201/tablesAndConstructerFunc)  |
 | Html Forms, Lists and Js Events     | [content](https://mohammed-khamees.github.io/reading-notes201/htmlFormsListsAndJsEvents) |
-| Debugging                           | [content](https://mohammed-khamees.github.io/reading-notes201/errorDebugging)            |
+| Debugging                           | [content](https://mohammed-khamees.github.io/reading-notes201/handlingError)             |
 | GitHub                              | [My GitHub Page](https://github.com/mohammed-khamees)                                    |
