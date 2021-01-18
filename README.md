@@ -19,4 +19,5 @@ This page contains the reading material of course 201 each of one are clarify in
 | Debugging                           | [content](https://mohammed-khamees.github.io/reading-notes201/handlingError)             |
 | HTML Audio, Video, Images           | [content](https://mohammed-khamees.github.io/reading-notes201/audioVideoImages)          |
 | HTML Canvas and Chart JS            | [content](https://mohammed-khamees.github.io/reading-notes201/canvasAndChartJs)          |
+| Local Storage                       | [content](https://mohammed-khamees.github.io/reading-notes201/localStorage)              |
 | GitHub                              | [My GitHub Page](https://github.com/mohammed-khamees)                                    |
