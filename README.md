@@ -21,4 +21,5 @@ This page contains the reading material of course 201 each of one are clarify in
 | HTML Canvas and Chart JS                    | [content](https://mohammed-khamees.github.io/reading-notes201/canvasAndChartJs)          |
 | Local Storage                               | [content](https://mohammed-khamees.github.io/reading-notes201/localStorage)              |
 | CSS Transforms, Transitions, and Animations | [content](https://mohammed-khamees.github.io/reading-notes201/cssTTA)                    |
+| psychological safety talk                   | [content](https://mohammed-khamees.github.io/reading-notes201/psychologicalSafetyTalk)   |
 | GitHub                                      | [My GitHub Page](https://github.com/mohammed-khamees)                                    |
